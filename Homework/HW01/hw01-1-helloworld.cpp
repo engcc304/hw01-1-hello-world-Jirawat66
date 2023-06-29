@@ -9,6 +9,6 @@ int main () {
     int a=10 ;
     scanf("%d",&a);
     printf("a=%d",a);
-
+    
     return 0 ;
 }
